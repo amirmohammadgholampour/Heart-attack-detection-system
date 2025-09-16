@@ -33,4 +33,4 @@ The dataset consists of medical records with the following attributes:
 ---
 
 ### Machine Learning algorithms: 
-SVM, Logistic Regression, RandomForest, KNN, GradientBoosting
+SVM
