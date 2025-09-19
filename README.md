@@ -43,9 +43,9 @@ SVM
     git clone https://github.com/amirmohammadgholampour/Heart-attack-detection-system.git
 
 2. Create a virtual environment:
-    .python -m venv venv 
-    .source venv/bin/activate (On linux & Mac)
-    .venv\Scripts\activate    (On Windows)
+    - <b>python -m venv venv</b>
+    - <b>source venv/bin/activate (On linux & Mac)</b>
+    - <b>venv\Scripts\activate    (On Windows)</b>
 
 3. Install the dependencies:
-    pip install -r requirements.txt
+    - <b>pip install -r requirements.txt</b>
