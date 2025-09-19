@@ -9,7 +9,7 @@ The goal is to classify patients into:
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset consists of medical records with the following attributes:
 
@@ -34,3 +34,18 @@ The dataset consists of medical records with the following attributes:
 
 ### Machine Learning algorithms: 
 SVM
+
+## Installation
+
+1. Clone this repository:
+
+    ```bash
+    git clone https://github.com/amirmohammadgholampour/Heart-attack-detection-system.git
+
+2. Create a virtual environment:
+    .python -m venv venv 
+    .source venv/bin/activate (On linux & Mac)
+    .venv\Scripts\activate    (On Windows)
+
+3. Install the dependencies:
+    pip install -r requirements.txt
